@@ -16,6 +16,15 @@ This project focuses on building a cutting-edge chatbot capable of interacting w
 - **Frontend**: Streamlit for GUI development
 - **Data Technologies**: Pinecone, Hugging Face models, ChromaDB
 
+## Screenshots and Diagrams
+
+## Image Description 1
+![Alt text for image 1](https://github.com/kushalBanda/Chat-with-Website/blob/main/1.jpeg)
+
+## Image Description 2
+![Alt text for image 2](https://github.com/kushalBanda/Chat-with-Website/blob/main/2.jpeg)
+
+
 ## Setup and Installation
 1. **Clone the Repository**:
    ```bash
@@ -52,9 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 - Thanks to LangChain for providing the tools and documentation.
 - Shoutout to the open-source projects that made this possible.
 - Special thanks to all contributors and testers who have helped refine this chatbot.
-
-## Screenshots and Diagrams
-(Include screenshots of the chatbot in action and diagrams of the system architecture here)
 
 ```
 
